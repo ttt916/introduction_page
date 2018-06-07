@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+姓名:周xxxphone:09xx-xxx-xxx．email:xxxxxx@gmail.com
+ 
+---
+### 教育程度
+- ##### 真xxx 資訊工程學系 2012/09~2016/06
+- ##### 中xxx 資訊工程學系 2016/09~2018/04
 
-You can use the [editor on GitHub](https://github.com/ttt916/introduction_page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 技能
+- C
+- MSSQL
+- C#
+- Github
+### 學業經歷
 
 ```markdown
-Syntax highlighted code block
+2014年 ACM-ICPC 程式設計競賽 獲得裁判獎
 
-# Header 1
-## Header 2
-### Header 3
+2015年 校內資工週專題展獲得 佳作
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+2015年 ITSA第四屆全國大專院校ITSA桂冠挑戰大賽 榮獲績優團隊
 ```
+## 作品
+#### 安全偵測尖兵 - https://github.com/ttt916/flyport
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ttt916/introduction_page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
